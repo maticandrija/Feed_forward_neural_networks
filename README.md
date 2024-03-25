@@ -1,8 +1,6 @@
 # Feed_forward_neural_networks
 
-###In this project I would lead you through implementation of Feedforward Neural Network for solving one of the most known regression projects, Californa housing.
-
-###Feedforward Neural Network
+In this project I would lead you through implementation of Feedforward Neural Network for solving one of the most known regression projects, Californa housing.
 
 A feedforward neural network (FNN) is one of the two broad types of artificial neural network, characterized by direction of the flow of information between its layers. Its flow is uni-directional, meaning that the information in the model flows in only one direction—forward—from the input nodes, through the hidden nodes and to the output nodes, without any cycles or loops. Modern feedforward networks are trained using the backpropagation method and are colloquially referred to as the "vanilla" neural networks.
 
