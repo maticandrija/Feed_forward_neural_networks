@@ -8,7 +8,7 @@ A feedforward neural network (FNN) is one of the two broad types of artificial n
 
 Activation function used in this project, [`rectified linear unit (ReLU) function`](https://en.wikipedia.org/wiki/Ramp_function) (also known as the `ramp or hinge function`) $f: \mathbb{R} \mapsto [0,\infty)$ is a piecewise linear function defined as:
 
-𝑓(𝑥):=max(0,𝑥)=𝑥1{𝑥>0}={𝑥,0,if 𝑥>0 otherwise.
+𝑓(𝑥):=max(0,𝑥)=𝑥1{𝑥>0} = {𝑥,if 𝑥>0 otherwise 0 }
 
 The first-order derivative is zero for $x < 0$, one for $x>0$, and it is not defined for $x=0$.
 
